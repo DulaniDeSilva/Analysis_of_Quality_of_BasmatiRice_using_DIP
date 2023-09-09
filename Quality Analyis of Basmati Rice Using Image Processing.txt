@@ -1,0 +1,1 @@
+This project mainly aims for analysing the quality of rice using Image processing Techiniques. Here Basmati Rice is classified according to major axis length minor axis length, aspect ratio, chalky content, impurity detection, and broken seed content detection
